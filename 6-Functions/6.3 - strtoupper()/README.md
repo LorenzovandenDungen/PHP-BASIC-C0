@@ -4,7 +4,7 @@
 
 ## Uitleg
 
-Het is ook mogelijk om een functie aan te roepen in een andere functie. Dat is wel zo makkelijk als je verschilende blokken code gescheiden wilt houden. Dan blijft de code netjs.
+Het is ook mogelijk om een functie aan te roepen in een andere functie. Dat is wel zo makkelijk als je verschilende blokken code gescheiden wilt houden. Dan blijft de code netjes.
 
 ## Leerdoelen
 
