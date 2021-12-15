@@ -2,7 +2,7 @@
 
 /*******************************************************************************************************************/
 /******************************************* OPDRACHT 1 doe je hieronder *******************************************/
-
+include 'bitcoinData.php';
 /* 
  * Opdracht 1: voeg hier het bestand allcoins.php in. 
  * Verder hoef je geen code te schrijven op deze pagina.
