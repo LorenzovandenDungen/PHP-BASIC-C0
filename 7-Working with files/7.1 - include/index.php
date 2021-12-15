@@ -9,7 +9,7 @@
 <body>
 
     <div class="menu">
-        <?php include 'menu.php';?>
+        <?php include '_includes_/menu.php';?>
     </div>
     
 </body>
