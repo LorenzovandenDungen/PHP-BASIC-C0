@@ -9,9 +9,12 @@ var_dump($_test1_ != $_test2_);
 echo "<br>";
 var_dump($_test1_ > $_test2_);
 echo "<br>";
+var_dump($_test1_ < $_test2_);
+echo "<br>";
 var_dump($_test1_ <> $_test2_);
 echo "<br>";
 var_dump($_test1_ >= $_test2_);
 echo "<br>";
 var_dump($_test1_ <= $_test2_);
+echo "<br>";
 ?>
