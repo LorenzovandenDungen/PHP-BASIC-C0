@@ -2,11 +2,14 @@
     function geefTienProcent(){
         $koopprijs = 75;
         $korting = 10;
-        return $koopprijs = $koopprijs * ((100-$korting) / 100);
+        $totaal = 100;
+        return ($koopprijs/$totaal)*$korting;
     }
 
     function zetAllesgroot(){
-        echo '<h1>' . geefTienProcent() . '</h1>';
+        $koopprijs = 75;
+        $totaalkorting =$koopprijs - geefTienProcent();
+        echo "Het totaalbedrag is $totaalkorting";
     }
 
     zetAllesgroot();
